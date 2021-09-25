@@ -1,0 +1,38 @@
+.navbar {
+  background-color: rgb(68, 129, 243);
+}
+#logo {
+  color: red;
+  margin-left: 20px;
+  font-size: 20px bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* nav .navbar a:hover {
+    color: yellow;
+  } */
+/* .menu{
+    justify-content: center; */
+/* p {
+  margin-left: 100px;
+} */
+.produit {
+  display: flex;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  margin: 20px;
+  padding: 0px 50px;
+}
+.produit2 {
+  display: flex;
+  font-family: Tahoma;
+  font-size: 15px;
+  justify-content: center;
+  margin: 20px;
+  padding: 0px 50px;
+}
+h2 {
+  color: blue;
+  text-align: center;
+  text-shadow: rgb(0, 0, 0) 2px 3px;
+}
